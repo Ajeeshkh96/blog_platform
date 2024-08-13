@@ -12,7 +12,7 @@ build/
 develop-eggs/
 dist/
 downloads/
-migrations
+migrations/
 eggs/
 .eggs/
 lib/
